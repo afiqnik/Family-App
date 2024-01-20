@@ -4,10 +4,19 @@
 Welcome to the Family App repository! 🚀
 
 This project, completed with [**Sigma School**](https://www.linkedin.com/company/sigma-school/), is a simple web application that allows users to manage and track family member information. Built using HTML, CSS, and JavaScript, it serves as an excellent hands-on experience for beginners in the world of web development.
+
+
+## Features
+
+- Add Family Members: Easily input names, ages, and genders of your family members.
+- Dynamic Updates: Use the provided button to add age and change names on the fly.
+
+
 ## Lessons Learned
 
 - Using classes to create family members.
 - Learning to show data in table format.
+
 
 ## Showcase
 
@@ -26,14 +35,21 @@ Visit the [Family App App](https://afiqnik.github.io/Login-App/) to experience t
 
 2. Open files in your preferred code editor.
 
-3. Explore the functionalities of the Login App and start experimenting!
+3. Explore the functionalities of the Family App and start experimenting!
+
+
+## Contributing
+
+Feel free to contribute, enhance, or customize this project.
+
+Whether you're a beginner looking to practice or an experienced developer wanting to add features, your contributions are highly appreciated!
 
 
 ## Feedback
 
-Feel free to contribute, share feedback, or use this project as a learning resource. Happy coding! 🌟
+If you encounter any issues or have feedback, please create an issue. Your input is valuable! You can also reach out to me at [LinkedIn](https://www.linkedin.com/in/nik-muhammad-afiq/).
 
-You can reach out to me at [LinkedIn](https://www.linkedin.com/in/nik-muhammad-afiq/).
+Happy coding! 🚀🌐
 
 
 ## License
